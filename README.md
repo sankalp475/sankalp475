@@ -24,69 +24,131 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-###
+<h1 align="center">Hey, I'm Sankalp Kumar 👋</h1>
+<h3 align="center">Software Developer | MSc Artificial Intelligence Student</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="gif" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/sankalp-kumar-27b7b0172/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sankalp05oct@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sankalp475">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Building+software+with+AI%2C+cloud%2C+and+systems+thinking.;Exploring+Linux%2C+web%2C+and+intelligent+applications.;Learning+by+building+real+projects." alt="Typing SVG" />
+</p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+I build software solutions at the intersection of application development, cloud infrastructure, Linux systems, and artificial intelligence. I enjoy turning ideas into working products and learning the engineering behind them.
 
-###
+I currently work across Flutter, React.js, Google Cloud, CI/CD, and systems-level thinking while pursuing an MSc in Artificial Intelligence.
 
-<p align="left">My name is sankalp kumar</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+- 🎓 MSc Artificial Intelligence student
+- 💼 7 months of professional software development internship experience
+- 📱 Built cross-platform applications using Flutter
+- 🌐 Worked with React.js, HTML, CSS, and JavaScript
+- ☁️ Hands-on experience with Google Cloud hosting and deployment
+- 🐧 Interested in Linux, systems engineering, and networking
+- ⚙️ Exploring C, low-level programming, and system design fundamentals
+- 🤖 Passionate about AI/ML, computer vision, and intelligent applications
+- 🔐 Also interested in cybersecurity, OSINT, and digital privacy
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning web development<br>🎯 Goals: to learn game development<br>🎲 Fun fact: web development is real shit but fun to</p>
+## 🛠️ Tech Stack
 
-###
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,python,js,dart" alt="Programming languages" />
+</p>
 
-<h2 align="left">coding tools and technology</h2>
+### Frontend & App Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend and app development" />
+</p>
 
-###
+### Cloud, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,linux,git,github,bash,vscode" alt="Cloud, DevOps, and tools" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+### Areas of Interest
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Backend Engineering` · `Cloud Infrastructure` · `CI/CD` · `Systems Programming` · `Networking` · `OSINT`
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/sankalp475/sankalp475/output/snake.svg" alt="Snake animation" />
+## 💼 Experience
 
-###
+### Software Development Intern
+**Sarva Suvidhaen Private Limited**  
+*November 2024 – July 2025*
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalp475&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalp475&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Worked on practical software engineering tasks including:
+
+- Building cross-platform mobile apps with Flutter
+- Creating web interfaces and frontend features with React.js
+- Working with Google Cloud for hosting and deployment
+- Setting up and maintaining CI/CD workflows
+- Contributing in a team-based software development environment
+
+---
+
+## 🚀 Featured Work
+
+| Project | Focus | Stack |
+| --- | --- | --- |
+| Privacy-Aware Code Review Agent | Privacy analysis and static code review workflows | Python, AST |
+| DropZone | Personal file-transfer system and backend architecture | Linux, Backend, Web |
+| AI/ML Experiments | Machine learning and computer vision exploration | Python |
+| Systems Programming | Low-level programming, networking, and Linux fundamentals | C, Linux |
+
+*These represent active development interests and current learning areas.*
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sankalp475&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalp475&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sankalp475&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🎯 Currently Exploring
+
+- Artificial Intelligence and Machine Learning
+- Computer Vision and intelligent applications
+- Backend engineering and cloud-native systems
+- C programming and systems fundamentals
+- Linux, networking, and software architecture
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always open to collaborations, meaningful projects, and conversations around software engineering and AI.
+
+- **LinkedIn:** [Sankalp Kumar](https://www.linkedin.com/in/sankalp-kumar-27b7b0172/)
+- **GitHub:** [@sankalp475](https://github.com/sankalp475)
+- **Email:** [sankalp05oct@gmail.com](mailto:sankalp05oct@gmail.com)
+
+---
+
+<p align="center">
+  <i>Building, experimenting, and learning — one system at a time.</i>
+</p>
 
 
