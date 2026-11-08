@@ -56,7 +56,7 @@ I currently work across Flutter, React.js, Google Cloud, CI/CD, and systems-leve
 - 📱 Built cross-platform applications using Flutter
 - 🌐 Worked with React.js, HTML, CSS, and JavaScript
 - ☁️ Hands-on experience with Google Cloud hosting and deployment
-- 🐧 Interested in Linux, systems engineering, and networking
+- 🐧 Interested in Arch Linux, systems engineering, and networking
 - ⚙️ Exploring C, low-level programming, and system design fundamentals
 - 🤖 Passionate about AI/ML, computer vision, and intelligent applications
 - 🔐 Also interested in cybersecurity, OSINT, and digital privacy
