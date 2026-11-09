@@ -101,7 +101,7 @@ Worked on practical software engineering tasks including:
 
 ---
 
-## 🚀 Featured Work
+<!--  ## 🚀 Featured Work
 
 | Project | Focus | Stack |
 | --- | --- | --- |
@@ -111,7 +111,7 @@ Worked on practical software engineering tasks including:
 | Systems Programming | Low-level programming, networking, and Linux fundamentals | C, Linux |
 
 *These represent active development interests and current learning areas.*
-
+-->
 ---
 
 ## 📊 GitHub Statistics
